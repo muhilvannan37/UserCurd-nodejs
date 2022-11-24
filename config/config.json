@@ -1,0 +1,26 @@
+[
+    {
+        "id": "b3689b35-02bc-4d34-9a20-07adf955b307",
+        "first_name": "John",
+        "last_name": "Doe",
+        "middle_name": "J",
+        "dob": "25-10-1995",
+        "email": "sam356@gmail.com",
+        "mobile_no": "8785963524",
+        "password": "$2b$10$eXHGJQcF8f6xtZWmDEBcfeAgmw1gi64tRY.El8Fl2nvHLk.zbisaS",
+        "occupation": "Artist",
+        "company": "test"
+    },
+    {
+      "id": "350f6c5f-d9e4-490a-84dd-b3767bb6edde",
+      "first_name": "Sam",
+      "last_name": "Doe",
+      "middle_name": "S",
+      "dob": "24-12-1990",
+      "email": "johndoe123@gmail.com",
+      "mobile_no": "9345987490",
+      "password": "$2b$10$eXHGJQcF8f6xtZWmDEBcfeAgmw1gi64tRY.El8Fl2nvHLk.zbisaS",
+      "occupation": "Developer",
+      "company": "marlo"
+    }
+]
